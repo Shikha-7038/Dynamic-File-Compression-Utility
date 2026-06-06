@@ -1,0 +1,14 @@
+{
+  "source_file": "input_files\\sample.json",
+  "compressed_file": "compressed_files\\sample.zst",
+  "codec": "zstd",
+  "compression_level": 6,
+  "chunk_size": 4194304,
+  "threads": 0,
+  "original_size_bytes": 21493,
+  "compressed_size_bytes": 855,
+  "compression_ratio": 0.0398,
+  "space_saved_percent": 96.02,
+  "compression_time_seconds": 0.02,
+  "sha256_hash": "60a4c6f45eb2778cfc57fdc2addb30cc7e3fb9f34326f48473a108a04766f498"
+}

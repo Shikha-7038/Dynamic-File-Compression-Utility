@@ -1,0 +1,14 @@
+{
+  "source_file": "input_files\\sample.csv",
+  "compressed_file": "compressed_files\\sample.xz",
+  "codec": "lzma",
+  "compression_level": 9,
+  "chunk_size": 1048576,
+  "threads": 0,
+  "original_size_bytes": 7193,
+  "compressed_size_bytes": 1060,
+  "compression_ratio": 0.1474,
+  "space_saved_percent": 85.26,
+  "compression_time_seconds": 0.08,
+  "sha256_hash": "478d60dac78ca499fa2bc299398f2965ce69746ece719e09f713a918d3369c4f"
+}

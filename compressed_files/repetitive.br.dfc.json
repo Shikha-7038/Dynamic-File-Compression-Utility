@@ -1,0 +1,14 @@
+{
+  "source_file": "input_files\\repetitive.txt",
+  "compressed_file": "compressed_files\\repetitive.br",
+  "codec": "brotli",
+  "compression_level": 6,
+  "chunk_size": 2097152,
+  "threads": 0,
+  "original_size_bytes": 36000,
+  "compressed_size_bytes": 43,
+  "compression_ratio": 0.0012,
+  "space_saved_percent": 99.88,
+  "compression_time_seconds": 0.01,
+  "sha256_hash": "6c5d71396c94bfb4763f739b0aafe41613ea7f26b36a9567ed896b02be7fde15"
+}
