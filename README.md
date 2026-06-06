@@ -106,10 +106,6 @@ Dynamic-File-Compression-Utility/
 │ ├── *.xz # LZMA compressed
 │ ├── *.br # Brotli compressed
 │ └── *.dfc.json # Manifest files
-│
-├── decompressed_files/ # Decompressed output
-│ └── *_restored.txt # Restored original files
-│
 ├── outputs/ # Reports & statistics
 │ ├── compression_report.json
 │ └── compression_report.md
